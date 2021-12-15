@@ -1,0 +1,27 @@
+mysql://b6bd6dc4332b69:9aa6925a@us-cdbr-east-04.cleardb.com/heroku_9032b1eba360242?reconnect=true
+
+
+
+us-cdbr-east-04.cleardb.com
+b6bd6dc4332b69
+9aa6925a
+
+
+Fashionista of the Year (Female)
+Most Influential Person of the Year
+Entreprenuer of the Year
+  Fashion Designer
+  HairStylist
+  Make-up Artist
+  Chef
+  Barber
+Sportman of the Year
+SportWoman of the Year
+Artiste of the Year
+Entertainer of the year
+Content Creator of the year
+Social Media Personality of the Year
+Couch Potato of the Year
+Socialite of the year
+Rookie of the Year
+Book Worm of the year
